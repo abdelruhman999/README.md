@@ -22,15 +22,6 @@
 
 ### 3D Graphics
 - Exploring the integration of 3D graphics in web applications, utilizing React and Three.js to build interactive, visually engaging experiences.
-### Frontend Development
-- Build modern, responsive websites with React.js and Tailwind CSS
-- Develop user-friendly interfaces and experiences using Vue.js
-
-### Web Design
-- Passionate about web design with a focus on creating clean, aesthetically pleasing layouts
-
-### 3D Graphics
-- Exploring 3D graphics integration with React and Three.js
 
 ## Skills
 - Git
